@@ -2,9 +2,11 @@ title: Kirill Samaray # your name (or website title) here
 logo: "/images/Photo 2022.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  <br>10 years of experience in Oil & Gas and Education. 2 years of Management experience with excessive international exposure. Currently pursuing Master's Degree 
+  in Business Analytics, Information Systems Management specialization.<br>
   Second description 
-  <br><br>
+  <br>Strong technical skills in R, SQL, Database Management, Mongo DB, JMP. Possesses Master's Degree in Engineering  and Shipping Operations. International 
+  Fulbright Scholar.<br>
   <a href="https://www.linkedin.com/in/kirill-samaray-8b43b414a">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
