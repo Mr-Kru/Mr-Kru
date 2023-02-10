@@ -4,7 +4,7 @@
 
 ### Machine Learning with R 
 
-[Diagnosing Breast Cancer with a knn algorithm](/pdf/Project 1 - Diagnosing Brest Cancer by Kirill Samaray.pdf)
+- [DIAGNOSING BREAST CANCER WITH A KNN ALGORITHM](/pdf/Project 1 - Diagnosing Brest Cancer by Kirill Samaray.pdf)
 <img src="images/project 1 crosstable.jpg?raw=true"/>
 <img src="images/project 1 tables comparison.jpg?raw=true"/>
 
@@ -13,7 +13,7 @@
 ---
 
 
-[SPAM Detection using Naive Bayesian algorithm](/pdf/Project 2 - SPAM Detection by Kirill Samaray.pdf)
+- [SPAM DETECTION USING NAIVE BAYESIAN ALGORITHM](/pdf/Project 2 - SPAM Detection by Kirill Samaray.pdf)
 <img src="images/visualizing 1.jpg?raw=true"/>
 <img src="images/training model 1.jpg?raw=true"/>
 <img src="images/algorithm 1.jpg?raw=true"/>
@@ -33,6 +33,13 @@
 
 ### JMP Projects
 
+- [HIERARCHICAL CLUSTER ANALYSIS]
+Data file: Lab6_Beer Data.jmp
+Used a Standardize data and Centroid method to run Hierarchical Cluster Analysis
+with all four continuous variables as dependent variables & Brand as label.
+
+<img src="images/project 1 crosstable.jpg?raw=true"/>
+<img src="images/project 1 tables comparison.jpg?raw=true"/>
 
 
 
