@@ -14,9 +14,6 @@
 <img src="images/training model 1.jpg?raw=true"/>
 <img src="images/algorithm 1.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
