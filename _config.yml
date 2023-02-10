@@ -1,24 +1,31 @@
-# Website Configuration
-title: Kirill Samaray
-logo: "/images/Photo 2022.jpg?raw=true"
-description: |
-  10 years of experience in Oil & Gas and Education.
-  2 years of Management experience with excessive international exposure.
-  Currently pursuing Master's Degree in Business Analytics, Information Systems Management specialization.
-
----
+title: Kirill Samaray # your name (or website title) here
+logo: "/images/Photo 2022.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
   
-  Strong technical skills in R, SQL, Machine Learning, Database Management, Mongo DB, JMP.
-  Possesses Master's Degree in Engineering and Shipping Operations. International Fulbright Scholar.
-
----
+    
+  <br>10 years of experience in Oil & Gas 
+  and Education. 2 years of Management 
+  experience with excessive international 
+  exposure. Currently pursuing Master's Degree 
+  in Business Analytics, Information Systems 
+  Management specialization.<br>  
   
-  [View My LinkedIn Profile](https://www.linkedin.com/in/kirill-samaray-8b43b414a)
-
-# Jekyll Configuration
+  ---
+  
+  <br>Strong technical skills in R, SQL, 
+  Machine Learning, Database Management, 
+  Mongo DB, JMP. Possesses Master's Degree
+  in Engineering and Shipping Operations.
+  International Fulbright Scholar.<br>    
+  
+  
+  <br> 
+  <a href="https://www.linkedin.com/in/kirill-samaray-8b43b414a">View My LinkedIn Profile</a>   
+  
+  
+  
 theme: jekyll-theme-minimal
-google_analytics: G-XXBSPVBYP9
-
+google_analytics: G-XXBSPVBYP9 # your Google Analytics tracking ID here
 
 
 
