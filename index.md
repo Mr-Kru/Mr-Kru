@@ -24,7 +24,7 @@
 
 - [ADVANCED ERD CONVERSION]  
 
-<img src="images/SQL 1.jpg?raw=true"/>  
+<img src="images/SQL 1.png?raw=true"/>  
 
 
 - [Project 2 Title](http://example.com/)
