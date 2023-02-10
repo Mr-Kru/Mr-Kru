@@ -2,13 +2,13 @@
 
 ---
 
-### SQL Projects 
+### Machine Learning with R 
 
-[Project 1 Title](/sample_page)
+[Diagnosing Breast Cancer with a knn algorithm](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[SPAM Detection using Naive Bayesian algorithm](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-### R Projects
+### SQL Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
