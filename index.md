@@ -8,7 +8,11 @@
 <img src="images/project 1 crosstable.jpg?raw=true"/>
 <img src="images/project 1 tables comparison.jpg?raw=true"/>
 
+
+
 ---
+
+
 [SPAM Detection using Naive Bayesian algorithm](/pdf/Project 2 - SPAM Detection by Kirill Samaray.pdf)
 <img src="images/visualizing 1.jpg?raw=true"/>
 <img src="images/training model 1.jpg?raw=true"/>
