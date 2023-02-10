@@ -27,9 +27,9 @@
 <img src="images/SQL 1.png?raw=true"/>  
 
 
-- [WRITING SQL STATEMENTS](http://example.com/)  
+- [WRITING SQL STATEMENTS]    
 
-<img src="images/SQL 1.png?raw=true"/>  
+<img src="images/SQL 2.jpg?raw=true"/>  
 
 -Find top 2 largest departments in terms of number of employees  
 
