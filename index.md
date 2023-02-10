@@ -61,8 +61,16 @@ A bank would like to understand the demographics and other characteristics assoc
   Findings  
   A Decision Tree analysis was performed with ‘Offer Accepted’ as the dependent variable, all other variables (except Customer Number) as independent variables and     ‘Validation’ as   Validation column. The ideal number of splits was identified, sensitivity and specificity rates for Validation set were determined, rules of probability were found, prediction profiler was visualized.  
   
-  <img src="images/JMP 3.jpg?raw=true"/>
+  <img src="images/JMP 3.jpg?raw=true"/>  
+  
+---
 
+- [REGRESSION ANALYSIS AND NEURAL NETWORK]  
+
+Performed correlation analysis & interpreted results to discover how the variables were correlated. Performed a simple linear regression analysis & interpreted the results such as p-value, R-square, residuals, and regression analysis. Performed a stepwise multiple regression analysis and interpreted the results such as VIF, residuals, profiler, and regression equation. Performed Neural Network and compared its results with Multiple Regression analysis.  
+
+
+<img src="images/JMP 4.jpg?raw=true"/>  
 
 
 ---
