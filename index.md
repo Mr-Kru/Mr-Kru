@@ -5,7 +5,7 @@
 ### Machine Learning with R 
 
 [Diagnosing Breast Cancer with a knn algorithm](/pdf/Project 1 - Diagnosing Brest Cancer by Kirill Samaray.pdf)
-<img src="images/Project_1_crosstable.jpg?raw=true"/>
+<img src="images/Project 1 crosstable.jpg?raw=true"/>
 <img src="images/Project 1 crosstable_z.jpg?raw=true"/>
 <img src="images/project 1 tables comparison.jpg?raw=true"/>
 
