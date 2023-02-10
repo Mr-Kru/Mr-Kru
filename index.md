@@ -38,8 +38,8 @@ Data file: Lab6_Beer Data.jmp
 Used a Standardize data and Centroid method to run Hierarchical Cluster Analysis
 with all four continuous variables as dependent variables & Brand as label.
 
-<img src="images/project 1 crosstable.jpg?raw=true"/>
-<img src="images/project 1 tables comparison.jpg?raw=true"/>
+<img src="images/JMP 1.jpg?raw=true"/>
+<img src="images/JMP 2.jpg?raw=true"/>
 
 
 
