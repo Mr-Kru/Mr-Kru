@@ -4,11 +4,11 @@
 
 ### Machine Learning with R 
 
-[Diagnosing Breast Cancer with a knn algorithm](/sample_page)
+[Diagnosing Breast Cancer with a knn algorithm](/pdf/Project 1 - Diagnosing Brest Cancer by Kirill Samaray.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[SPAM Detection using Naive Bayesian algorithm](/pdf/sample_presentation.pdf)
+[SPAM Detection using Naive Bayesian algorithm](/pdf/Project 2 - SPAM Detection by Kirill Samaray.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
