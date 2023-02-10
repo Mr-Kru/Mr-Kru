@@ -27,10 +27,34 @@
 <img src="images/SQL 1.png?raw=true"/>  
 
 
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [WRITING SQL STATEMENTS](http://example.com/)  
+
+<img src="images/SQL 1.png?raw=true"/>  
+
+-Find top 2 largest departments in terms of number of employees  
+
+select * from (select deptno, count (ename) from emp group by deptno order by count(ename) desc)  
+where rownum < 3;  
+
+-Create a list of employee names and also their supervisor names if an employee has a manager  
+
+select d.ename as Employees, cursor(select e.ename from emp e where e.empno=d.mgr)    
+as Supervisors  
+from emp d;  
+
+-Create a list manager names and also his supervise names if the manager has any one  
+
+select d.ename as Managers, cursor(select e.ename from emp e where e.mgr = d.empno)  
+as Supervisees  
+from emp d where job = 'MANAGER';  
+
+-Find a random department and the total number of employees in the department  
+
+select count(ename), deptno  
+from emp where deptno = (select deptno from (select deptno from emp order by dbms_random.value)  
+where rownum<2) group by deptno;  
+
+
 
 ---
 
