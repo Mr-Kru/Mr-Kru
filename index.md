@@ -6,12 +6,13 @@
 
 [Diagnosing Breast Cancer with a knn algorithm](/pdf/Project 1 - Diagnosing Brest Cancer by Kirill Samaray.pdf)
 <img src="images/project 1 crosstable.jpg?raw=true"/>
-<img src="images/Project 1 crosstable_z.jpg?raw=true"/>
 <img src="images/project 1 tables comparison.jpg?raw=true"/>
 
 ---
 [SPAM Detection using Naive Bayesian algorithm](/pdf/Project 2 - SPAM Detection by Kirill Samaray.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/visualizing 1.jpg?raw=true"/>
+<img src="images/training model 1.jpg?raw=true"/>
+<img src="images/algorithm 1.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
