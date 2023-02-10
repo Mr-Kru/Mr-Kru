@@ -35,7 +35,10 @@
 - [HIERARCHICAL CLUSTER ANALYSIS]
 Data file: Lab6_Beer Data.jmp
 Used a Standardize data and Centroid method to run Hierarchical Cluster Analysis
-with all four continuous variables as dependent variables & Brand as label.
+with all four continuous variables as dependent variables & Brand as label.  
+
+  Findings  
+  Summary tables with Mean values for the ingredients was identified. Each cluster was interpreted accordingly. K-means cluster analysis was run with all four         continuous variables. The values of Cluster Cubic Criterion were identified.   
 
 <img src="images/JMP 1.jpg?raw=true"/>
 <img src="images/JMP 2.jpg?raw=true"/>
