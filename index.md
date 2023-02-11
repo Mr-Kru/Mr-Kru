@@ -4,7 +4,10 @@
 
 ### Machine Learning with R 
 
-- [DIAGNOSING BREAST CANCER WITH A KNN ALGORITHM](/pdf/Project 1 - Diagnosing Brest Cancer by Kirill Samaray.pdf)
+- [DIAGNOSING BREAST CANCER WITH A KNN ALGORITHM](/pdf/Project 1 - Diagnosing Brest Cancer by Kirill Samaray.pdf)  
+The purpose of the project was to use machine learning algorithms in helping patients and clinics to identify cancerous cells. By automating the process of detection, it may reduce the time spent on examining the cells by a doctor and potentially could provide a better accuracy due to eliminating a human factor since some healthcare specialists might potentially make mistakes while diagnosing. The algorithm chosen for this project was kNN. With the help of this algorithm the computer studied the biopsied cells from both of the genders in order to identify cancer.  
+
+
 <img src="images/project 1 crosstable.jpg?raw=true"/>
 <img src="images/project 1 tables comparison.jpg?raw=true"/>
 
@@ -13,7 +16,10 @@
 ---
 
 
-- [SPAM DETECTION USING NAIVE BAYESIAN ALGORITHM](/pdf/Project 2 - SPAM Detection by Kirill Samaray.pdf)
+- [SPAM DETECTION USING NAIVE BAYESIAN ALGORITHM](/pdf/Project 2 - SPAM Detection by Kirill Samaray.pdf)  
+The number of spam message in the modern world is significantly growing each year which can result in potential cyber security breach, loss of time and resources. The task of spam messages detection is becoming of a paramount importance in the wake of growing amount of data transferred through the Internet or via the mobile phones. The constant inundation of unsolicited messages online has caused a disruption in the digital world and has made it difficult to identify genuine messages out from the commercial spam or malicious malware. Filtering the messages and protecting people from spam can considerably change the ecosystem of email correspondence and bring more integrity into the system. Thus, introducing an effective algorithm capable of dissecting and classifying spam and genuine SMS messages should help people and organizations to maintain their efficiency levels and stay protected from scam.  
+
+
 <img src="images/visualizing 1.jpg?raw=true"/>
 <img src="images/algorithm 1.jpg?raw=true"/>
 
