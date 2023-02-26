@@ -4,6 +4,22 @@
 
 ### Machine Learning with R 
 
+- [PREDICTING LETTER PATTERNS IN ENGLISH WORDS USING HIDDEN MARKOV MODEL](/pdf/Project 3.pdf)  
+The objectives of this report were as follows:
+• To provide an overview of Hidden Markov Models and their application in predicting letter patterns in English words, including its mathematical foundations.
+• To outline the methodology for building and training an HMM for letter pattern prediction.
+• To evaluate the performance of the HMM in predicting letter patterns in English words, including alternative methods for comparison.
+• To discuss the potential benefits and applications of using HMMs for letter pattern prediction in various industries including its limitations.
+• To provide recommendations for further research and development in this area.  
+
+<img src="images/screen 1.jpg?raw=true"/>
+<img src="images/screen 32.jpg?raw=true"/>  
+
+---  
+
+
+
+
 - [DIAGNOSING BREAST CANCER WITH A KNN ALGORITHM](/pdf/Project 1 - Diagnosing Brest Cancer by Kirill Samaray.pdf)  
 The purpose of the project was to use machine learning algorithms in helping patients and clinics to identify cancerous cells. By automating the process of detection, it may reduce the time spent on examining the cells by a doctor and potentially could provide a better accuracy due to eliminating a human factor since some healthcare specialists might potentially make mistakes while diagnosing. The algorithm chosen for this project was kNN. With the help of this algorithm the computer studied the biopsied cells from both of the genders in order to identify cancer.  
 
