@@ -4,7 +4,7 @@
 
 ### Machine Learning with R 
 
-- [IDENTIFYING RISKY BANL LOANS USING C5.0 DECISION TREE ALGORITHM](/pdf/Project 4.pdf)  
+- [IDENTIFYING RISKY BANL LOANS USING C5.0 DECISION TREE ALGORITHM](/pdf/Project 5.pdf)  
 The objectives of this report were as following:  
 • To evaluate the efficiency of the C5.0 decision tree algorithm in identifying risky bank loans.  
 • To identify the most important features that contribute to the identification of risky loans using the C5.0 decision tree algorithm.  
