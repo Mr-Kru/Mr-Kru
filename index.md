@@ -4,6 +4,18 @@
 
 ### Machine Learning with R 
 
+- [IDENTIFYING RISKY BANL LOANS USING C5.0 DECISION TREE ALGORITHM](/pdf/Project 4.pdf)  
+The objectives of this report were as following:  
+• To evaluate the efficiency of the C5.0 decision tree algorithm in identifying risky bank loans.  
+• To identify the most important features that contribute to the identification of risky loans using the C5.0 decision tree algorithm.  
+• How to balance and penalize type I and type II errors.  
+• To provide recommendations for the use of the C5.0 decision tree algorithm in identifying and managing the risks associated with loan portfolios.   
+ 
+<img src="images/pic36.jpg?raw=true"/>
+<img src="images/pic28.jpg?raw=true"/>
+
+---   
+
 - [TOPIC MODELING OF BBC NEWS USING LATEND DIRICHLET ALGORITHM (LDA)](/pdf/Project 4.pdf)  
 The objectives of this report were as following:  
 • Collect and preprocess a dataset of BBC news articles.  
