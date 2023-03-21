@@ -5,13 +5,13 @@
 ### Machine Learning with R 
 
 - [TOPIC MODELING OF BBC NEWS USING LATEND DIRICHLET ALGORITHM (LDA)](/pdf/Project 4.pdf)  
-The objectives of this report were as following:
-• Collect and preprocess a dataset of BBC news articles.
-• Apply the LDA algorithm to the preprocessed dataset and identify the main topics covered by the BBC news.
-• Evaluate the quality of the topic modelling results by measuring smoothness and accuracy.
-• Identify the most relevant keywords for each topic, analyze the semantic meaning of each topic, visualize it with the help of word clouds.
-• Provide insights and recommendations for businesses and researchers based on the findings of the topic modelling analysis.  
-
+The objectives of this report were as following:  
+• Collect and preprocess a dataset of BBC news articles.  
+• Apply the LDA algorithm to the preprocessed dataset and identify the main topics covered by the BBC news.  
+• Evaluate the quality of the topic modelling results by measuring smoothness and accuracy.  
+• Identify the most relevant keywords for each topic, analyze the semantic meaning of each topic, visualize it with the help of word clouds.  
+• Provide insights and recommendations for businesses and researchers based on the findings of the topic modelling analysis.   
+ 
 <img src="images/pic20.jpg?raw=true"/>
 <img src="images/pic31.jpg?raw=true"/>
 
