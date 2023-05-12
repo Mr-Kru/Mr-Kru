@@ -4,6 +4,44 @@
 
 ### Machine Learning with R 
 
+- [MODELING THE STRENGTH OF CONCRETE WITH ARTIFICIAL NEURAL NETWORKS (ANN)](/pdf/Project 8.pdf)    
+The objectives of this report were as following:     
+• To provide an overview of ANNs in predicting concrete strength and to identify the most effective approaches and parameters.   
+• To evaluate the performance of ANNs in predicting the strength of concrete by comparing the predicted values with the actual experimental results.    
+• To assess the accuracy of the backpropagation algorithm in improving the prediction accuracy of ANNs.   
+• To provide recommendations for the use of ANNs with backpropagation algorithm in predicting concrete strength and to identify areas for future research.    
+ 
+<img src="images/Project 8.jpg?raw=true"/>
+<img src="images/Project 8-2.jpg?raw=true"/>
+
+---   
+
+- [PREDICTING HEART DISEASE USING BINOMIAL LOGISTIC REGRESSION](/pdf/Project 7.pdf)    
+The objectives of this report were as following:     
+• To provide an overview of binomial logistic regression and its implementation in R for predicting heart disease.   
+• To acquire and preprocess the heart disease dataset for modeling purposes.   
+• To perform exploratory data analysis to understand the characteristics and relationships of the variables in the dataset.   
+• To develop a binomial logistic regression model for predicting heart disease using the heart disease dataset and R packages such as "glm" and "caret".   
+• To evaluate the performance of the model using appropriate metrics.   
+ 
+<img src="images/Project 7.jpg?raw=true"/>
+<img src="images/Project 7-2.jpg?raw=true"/>
+
+---   
+
+- [PREDICTING MEDICAL EXPENSES USING LINEAR REGRESSION](/pdf/Project 6.pdf)    
+The objectives of this report were as following:     
+• To identify the relevant factors that may affect medical expenses, such as age, sex, bmi, region, etc.     
+• To develop a linear regression model to predict medical expenses based on the identified factors.   
+• To evaluate the performance of the developed model using appropriate statistical measures, such as mean squared error and R-squared.   
+• To analyze the potential benefits of implementing a predictive model for medical expense estimation in a health insurance company, including cost savings and financial stability.   
+• To discuss the limitations and challenges that may arise when implementing a predictive model for medical expense estimation in a health insurance company, such as data quality and privacy concerns.   
+
+<img src="images/Project 6.jpg?raw=true"/>
+<img src="images/Project 6-2.jpg?raw=true"/>
+
+---   
+
 - [IDENTIFYING RISKY BANL LOANS USING C5.0 DECISION TREE ALGORITHM](/pdf/Project 5.pdf)  
 The objectives of this report were as following:  
 • To evaluate the efficiency of the C5.0 decision tree algorithm in identifying risky bank loans.  
