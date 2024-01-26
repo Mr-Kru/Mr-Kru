@@ -153,12 +153,16 @@ where rownum<2) group by deptno;
 Findings: 
 Played the role of a financial analyst tasked with making a buy, hold, or sell recommendation for an NVIDIA stock based on my valuation estimate based on Pro Forma Accounting statements for the next five years.
 
+<img src="images/finance1.jpg?raw=true"/>
+
 ---
 
 - [PORTFOLIO OPTIMIZATION]
 
 Findings:
 Worked with Vanguard ETF monthly price data from Yahoo Finance’s website and individual monthly stock returns from CRSP to to develop an optimized portfolio for a client using ETFs.
+
+<img src="images/finance3.jpg?raw=true"/>
 
 ---
 
