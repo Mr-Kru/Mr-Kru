@@ -4,7 +4,7 @@
 
 ### Big Data Programming with Python
 
-- [POOLING WITH CONVOLUTIONAL NEURAL NETWORKS USING NUMPY](/pdf/ks448_project1_ver2.ppy)  
+- [POOLING WITH CONVOLUTIONAL NEURAL NETWORKS USING NUMPY](/pdf/ks448_project1_ver2.py)  
 
 Description:
 Convolutional neural networks (CNN) are often applied to analyze images. Pooling is a technique used in CNN for subsampling, reducing the dimensions of data. Maximum pooling and median pooling techniques were used.
