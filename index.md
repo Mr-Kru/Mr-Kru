@@ -2,6 +2,30 @@
 
 ---
 
+### Big Data Programming with Python
+
+- [POOLING WITH CONVOLUTIONAL NEURAL NETWORKS USING NUMPY]
+
+Description:
+Convolutional neural networks (CNN) are often applied to analyze images. Pooling is a technique used in CNN for subsampling, reducing the dimensions of data. Maximum pooling and median pooling techniques were used.
+
+- [STOCK PRICE VISUALIZATION AND SIMULATION]
+
+Description:
+Monte Carlo simulation is a computational technique that leverages random sampling to model and analyze complex systems. It’s been used to analyze past data and predict a range of future outcomes. Financial analysts use MC to make long-term forecasts on stock prices and then advise their clients of appropriate strategies [AWS]. For this project, my goal was to establish an “Exchange-Traded Fund”. I had to see high growth but also wanted to diversify my investment. I sued MC utilizing Numpy, Pandas, Scipy, and visualization tool Matplotlib to achieve my goal.
+
+<img src="images/python1.jpg?raw=true"/>
+<img src="images/python2.jpg?raw=true"/>
+
+- [USING SMART WATCH LOG TO ANALYZE, VISUALIZE AND PREDICT ATHLETE'S PERFORMANCE]
+
+Description:
+Using a real-world dataset and various Python libraries, I managed to predict athlete's performance such as heart rate and pace, anayze trends in frequency of physical activities during a specific period of time and types of activities, and identified factors contributing to overall athlete's performance. Libraries used: Pandas, Numpy, Scikit-learn.
+
+<img src="images/python3.jpg?raw=true"/>
+
+
+
 ### Machine Learning with R 
 
 - [MODELING THE STRENGTH OF CONCRETE WITH ARTIFICIAL NEURAL NETWORKS (ANN)](/pdf/Project 8.pdf)    
