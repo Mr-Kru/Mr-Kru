@@ -9,7 +9,7 @@
 Description:
 Convolutional neural networks (CNN) are often applied to analyze images. Pooling is a technique used in CNN for subsampling, reducing the dimensions of data. Maximum pooling and median pooling techniques were used.
 
-- [STOCK PRICE VISUALIZATION AND SIMULATION]
+- [STOCK PRICE VISUALIZATION AND SIMULATION](/pdf/Samaray_Project 2.ipynb) 
 
 Description:
 Monte Carlo simulation is a computational technique that leverages random sampling to model and analyze complex systems. It’s been used to analyze past data and predict a range of future outcomes. Financial analysts use MC to make long-term forecasts on stock prices and then advise their clients of appropriate strategies [AWS]. For this project, my goal was to establish an “Exchange-Traded Fund”. I had to see high growth but also wanted to diversify my investment. I sued MC utilizing Numpy, Pandas, Scipy, and visualization tool Matplotlib to achieve my goal.
@@ -17,7 +17,7 @@ Monte Carlo simulation is a computational technique that leverages random sampli
 <img src="images/python1.jpg?raw=true"/>
 <img src="images/python2.jpg?raw=true"/>
 
-- [USING SMART WATCH LOG TO ANALYZE, VISUALIZE AND PREDICT ATHLETE'S PERFORMANCE]
+- [USING SMART WATCH LOG TO ANALYZE, VISUALIZE AND PREDICT ATHLETE'S PERFORMANCE](/pdf/Project 3 Josiah-Kirill.ipynb)
 
 Description:
 Using a real-world dataset and various Python libraries, I managed to predict athlete's performance such as heart rate and pace, anayze trends in frequency of physical activities during a specific period of time and types of activities, and identified factors contributing to overall athlete's performance. Libraries used: Pandas, Numpy, Scikit-learn.
