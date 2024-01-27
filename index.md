@@ -164,11 +164,19 @@ from emp d where job = 'MANAGER';
 
 select count(ename), deptno  
 from emp where deptno = (select deptno from (select deptno from emp order by dbms_random.value)  
-where rownum<2) group by deptno;  
-
-
+where rownum<2) group by deptno; 
 
 ---
+
+### Business Intelligence with Tableau
+
+Description:
+Using the demographic data and statistics on the Crime Rate in Chicago Community Areas the goal was to identify and visualize possible trends using Tableau.
+
+Findings:
+After thoroughly examining the data on crime rate and the percentage of households with the income below poverty level in South Side region of Chicago in 2016-2020, I identified a trend with higher Crime Rates being evident in those areas with higher percentage of households living below the poverty level. On the contrary, visualization shows that the areas with below 20% of families living below poverty (two lowest quartiles), also predominantly match with the lower levels of crime (usually up to 621 crimes per 1000 people).
+
+<img src="images/tableau1.jpg?raw=true"/>
 
 ---
 
