@@ -9,6 +9,8 @@
 Description:
 Convolutional neural networks (CNN) are often applied to analyze images. Pooling is a technique used in CNN for subsampling, reducing the dimensions of data. Maximum pooling and median pooling techniques were used.
 
+<img src="images/python4.jpg?raw=true"/>
+
 - [STOCK PRICE VISUALIZATION AND SIMULATION](/pdf/Samaray_Project 2.ipynb) 
 
 Description:
